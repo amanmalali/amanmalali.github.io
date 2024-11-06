@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
@@ -9,13 +9,13 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>216, Computer Science Building,</p>
+    <p>216, Computer Science,</p>
     <p>140 Governors Dr,</p>
     <p>Amherst, MA 01002</p>
 
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+news: false # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false # includes social icons at the bottom of the page
 ---
 
-Adding stuff here
+I am an MS + PhD student at the University of Massachusetts Amherst, where Peter J. Haas and Yanlei Diao advise me. My research focuses on developing and improving systems for training, deploying, and maintaining machine learning models. In my current project, I am designing a comprehensive framework that measures ML models' performance without ground truth and proactively retrains them if necessary. 
