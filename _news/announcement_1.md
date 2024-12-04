@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-My work has been funded by Dolby with a gift funding of $50k!
+My work on model maintenance has been funded by Dolby with a grant of $50k!
