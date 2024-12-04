@@ -18,4 +18,4 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-I am an MS + PhD student at the University of Massachusetts Amherst, I'm advised by Peter J. Haas and Yanlei Diao. My research focuses on developing and improving systems for training, deploying, and maintaining machine learning models. In my current project, I am designing a comprehensive framework that measures ML models' performance without ground truth and proactively retrains them if necessary. 
+I am an MS + PhD student at the University of Massachusetts Amherst, advised by Peter J. Haas and Yanlei Diao. My research focuses on developing and improving systems for training, deploying, and maintaining machine learning models. In my current project, I am designing a comprehensive framework that measures ML models' performance without ground truth and proactively retrains them if necessary. 
