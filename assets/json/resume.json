@@ -76,7 +76,13 @@
       "endDate": "Present",
       "GPA": "4.0/4.0",
       "advisors": ["Peter J. Haas", "Yanlei Diao"],
-      "courses": []
+      "courses": [
+	"Advanced Algorithms",
+        "Linear Algebra",
+        "Computer Architecture",
+        "Neural Networks",
+        "Artificial Intelligence",
+        "Advanced Databases"]
     },
     {
       "institution": "Ramaiah Institute of Technology",
@@ -85,15 +91,7 @@
       "studyType": "B.E.",
       "endDate": "2020-08-01",
       "GPA": "9.53/10.0",
-      "courses": [
-        "Probability",
-        "Statistics",
-        "Linear Algebra",
-        "Machine Learning",
-        "Deep Learning",
-        "Artificial Intelligence",
-        "High Performance Computing"
-      ]
+      "courses": []
     }
   ],
   "publications": [
